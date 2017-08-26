@@ -1,0 +1,15 @@
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\bin\Debug\DateRangeFormatter.exe.config
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\bin\Debug\DateRangeFormatter.exe
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\bin\Debug\DateRangeFormatter.pdb
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\obj\Debug\DateRangeFormatter.csprojResolveAssemblyReference.cache
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\obj\Debug\DateRangeFormatter.exe
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\obj\Debug\DateRangeFormatter.pdb

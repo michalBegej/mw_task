@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateRangeFormatter", "DateRangeFormatter\DateRangeFormatter.csproj", "{4FA52234-A00F-48BD-9288-AEB9E9AD67D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateRangeFormatter.Tests", "DateRangeFormatter.Tests\DateRangeFormatter.Tests.csproj", "{3CF4CF9E-68DF-4E99-8526-149560B106DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FA52234-A00F-48BD-9288-AEB9E9AD67D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA52234-A00F-48BD-9288-AEB9E9AD67D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA52234-A00F-48BD-9288-AEB9E9AD67D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA52234-A00F-48BD-9288-AEB9E9AD67D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CF4CF9E-68DF-4E99-8526-149560B106DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CF4CF9E-68DF-4E99-8526-149560B106DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CF4CF9E-68DF-4E99-8526-149560B106DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CF4CF9E-68DF-4E99-8526-149560B106DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter.Tests\bin\Debug\DateRangeFormatter.Tests.dll
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter.Tests\bin\Debug\DateRangeFormatter.Tests.pdb
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter.Tests\bin\Debug\DateRangeFormatter.exe
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter.Tests\bin\Debug\NSubstitute.dll
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter.Tests\bin\Debug\DateRangeFormatter.pdb
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter.Tests\bin\Debug\NSubstitute.xml
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter.Tests\obj\Debug\DateRangeFormatter.Tests.csprojResolveAssemblyReference.cache
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter.Tests\obj\Debug\DateRangeFormatter.Tests.dll
+C:\Github_Repo\DateRangeFormatter\DateRangeFormatter.Tests\obj\Debug\DateRangeFormatter.Tests.pdb
