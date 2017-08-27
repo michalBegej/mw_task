@@ -60,9 +60,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Application.cs" />
+    <Compile Include="Interfaces\IArgumentWrapper.cs" />
     <Compile Include="Interfaces\IDateFormatter.cs" />
+    <Compile Include="Interfaces\IEnvironment.cs" />
     <Compile Include="Interfaces\IFormatter.cs" />
     <Compile Include="Interfaces\IPrinter.cs" />
+    <Compile Include="Utilities\ArgumentWrapper.cs" />
+    <Compile Include="Utilities\EnvironmentControl.cs" />
     <Compile Include="Utilities\Printer.cs" />
     <Compile Include="Utilities\DateFormatter.cs" />
     <Compile Include="Utilities\DateRangeFromatter.cs" />

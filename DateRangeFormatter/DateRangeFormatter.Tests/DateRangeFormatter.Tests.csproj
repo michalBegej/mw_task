@@ -55,13 +55,14 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Utilities\ArgumentWrapperTests.cs" />
     <Compile Include="Validators\ArgumentsProprietyValidatorTests.cs" />
     <Compile Include="Validators\ArgumentValidatorTests.cs" />
-    <Compile Include="DateFormatterTests.cs" />
-    <Compile Include="DateRangeTests.cs" />
+    <Compile Include="Utilities\DateFormatterTests.cs" />
+    <Compile Include="Utilities\DateRangeTests.cs" />
     <Compile Include="Helpers\CultureHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ValidatorManagerTests.cs" />
+    <Compile Include="Utilities\ValidatorManagerTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DateRangeFormatter\DateRangeFormatter.csproj">

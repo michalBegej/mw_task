@@ -1,10 +1,10 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
+﻿using System;
 using DateRangeFormatter.Interfaces;
 using DateRangeFormatter.Utilities;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NSubstitute;
 
-namespace DateRangeFormatter.Tests
+namespace DateRangeFormatter.Tests.Utilities
 {
     [TestClass()]
     public class ValidatorManagerTests

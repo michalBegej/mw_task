@@ -30,6 +30,9 @@ namespace DateRangeFormatter.UnityContainer
             Container.RegisterType<IPrinter, ConsolePrinter>();
             Container.RegisterType<IDateFormatter, DateFormatter>();
             Container.RegisterType<IFormatter, DateRangeFromatter>();
+            Container.RegisterType<IArgumentWrapper, ArgumentWrapper>();
+            Container.RegisterType<IEnvironment, EnvironmentControl>();
+
         }
 
         private static void RegisterValidators()

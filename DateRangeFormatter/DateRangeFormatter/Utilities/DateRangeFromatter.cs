@@ -1,46 +1,42 @@
-﻿using System;
-using System.Globalization;
+﻿using System.Globalization;
 using DateRangeFormatter.Interfaces;
 
 namespace DateRangeFormatter.Utilities
 {
     public class DateRangeFromatter : IFormatter
-    {        
-        private readonly IApplicationArguments applicationArguments;
+    {
+        private readonly IArgumentWrapper argumentWrapper;
 
-        public DateRangeFromatter(IApplicationArguments applicationArguments)
+        public DateRangeFromatter(IArgumentWrapper argumentWrapper)
         {
-            this.applicationArguments = applicationArguments;            
+            this.argumentWrapper = argumentWrapper;
         }
 
-        private static bool AreTheSameMonth(DateTime startDate, DateTime endTime)
+        private bool AreTheSameMonth()
         {
-            return startDate.Month.Equals(endTime.Month);
+            return argumentWrapper.StartDate.Month.Equals(argumentWrapper.EndDate.Month);
         }
 
-        private static bool AreTheSameYear(DateTime startDate, DateTime endDate)
+        private bool AreTheSameYear()
         {
-            return startDate.Year.Equals(endDate.Year);
+            return argumentWrapper.StartDate.Year.Equals(argumentWrapper.EndDate.Year);
         }
-        
+
 
         public string FormatData()
         {
-            var startDate = DateTime.Parse(applicationArguments.Args[0], CultureInfo.CurrentCulture);
-            var endDate = DateTime.Parse(applicationArguments.Args[1], CultureInfo.CurrentCulture);
 
-            if (AreTheSameYear(startDate,endDate) 
-                && AreTheSameMonth(startDate, endDate))
+            if (AreTheSameYear() && AreTheSameMonth())
             {
-                return $"{startDate.ToString("dd")}-{endDate.ToString("dd/MM/yyyy")}".Replace('.', '/');
+                return $"{argumentWrapper.StartDate.ToString("dd", CultureInfo.InvariantCulture)}-{argumentWrapper.EndDate.ToString("dd/MM/yyyy", CultureInfo.InvariantCulture)}";
             }
 
-            if (AreTheSameYear(startDate, endDate))
+            if (AreTheSameYear())
             {
-                return $"{startDate.ToString("dd/MM")}-{endDate.ToString("dd/MM/yyyy")}".Replace('.', '/');
+                return $"{argumentWrapper.StartDate.ToString("dd/MM", CultureInfo.InvariantCulture)}-{argumentWrapper.EndDate.ToString("dd/MM/yyyy", CultureInfo.InvariantCulture)}";
             }
 
-            return  $"{startDate.ToString("dd/MM/yyyy")}-{endDate.ToString("dd/MM/yyyy")}".Replace('.', '/');
-        }        
+            return $"{argumentWrapper.StartDate.ToString("dd/MM/yyyy", CultureInfo.InvariantCulture)}-{argumentWrapper.EndDate.ToString("dd/MM/yyyy", CultureInfo.InvariantCulture)}";
+        }
     }
 }

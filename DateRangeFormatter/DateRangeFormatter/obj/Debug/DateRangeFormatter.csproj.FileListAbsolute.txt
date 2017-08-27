@@ -13,3 +13,17 @@ C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practic
 C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\obj\Debug\DateRangeFormatter.csprojResolveAssemblyReference.cache
 C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\obj\Debug\DateRangeFormatter.exe
 C:\Github_Repo\DateRangeFormatter\DateRangeFormatter\obj\Debug\DateRangeFormatter.pdb
+C:\repo\mw_task\DateRangeFormatter\DateRangeFormatter\bin\Debug\DateRangeFormatter.exe.config
+C:\repo\mw_task\DateRangeFormatter\DateRangeFormatter\bin\Debug\DateRangeFormatter.exe
+C:\repo\mw_task\DateRangeFormatter\DateRangeFormatter\bin\Debug\DateRangeFormatter.pdb
+C:\repo\mw_task\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\repo\mw_task\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\repo\mw_task\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.Unity.dll
+C:\repo\mw_task\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\repo\mw_task\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\repo\mw_task\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\repo\mw_task\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.Unity.xml
+C:\repo\mw_task\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\repo\mw_task\DateRangeFormatter\DateRangeFormatter\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\repo\mw_task\DateRangeFormatter\DateRangeFormatter\obj\Debug\DateRangeFormatter.exe
+C:\repo\mw_task\DateRangeFormatter\DateRangeFormatter\obj\Debug\DateRangeFormatter.pdb
